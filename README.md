@@ -31,4 +31,4 @@ It's a portable application and you can launch it from every directory!
 <br />
 
 <h1>:copyright: Copyright <a href="#-restart-fexplorer" title="Go to Navigation">[↑]</a></h1>
-© KC &#128640; Kristian Cenow. All rights reserved. This application is not affiliated with Windows® or © Microsoft Corporation. File Explorer® and all related elements are trademarks of and © Microsoft Corporation.
+© Kristian Cenow &#128640; KC. All rights reserved. This application is not affiliated with Windows® or © Microsoft Corporation. File Explorer® and all related elements are trademarks of and © Microsoft Corporation.
