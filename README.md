@@ -19,16 +19,16 @@ It's a portable application and you can launch it from every directory!
 
 <h1>:arrow_down: Download <a href="#-restart-fexplorer" title="Go to Navigation">[↑]</a></h1>
 
-* <b>[Latest version](https://github.com/kcenow/restart-fexplorer/releases/tag/v1.0 "Latest version")</b>
+* <b>[Latest version](https://github.com/kcenow/restart-fexplorer/releases/tag/v2025.04.06 "Latest version")</b>
 * <b>[All versions](https://github.com/kcenow/restart-fexplorer/releases "All versions")</b>
 
 <br />
 
 <h1>:scroll: Changelog <a href="#-restart-fexplorer" title="Go to Navigation">[↑]</a></h1>
 
-<b>[v1.0:](https://github.com/kcenow/restart-fexplorer/releases/tag/v1.0 "Latest version")</b>	First Release.
+<b>[v1.0:](https://github.com/kcenow/restart-fexplorer/releases/tag/v2025.04.06 "Latest version")</b>	First Release.
 
 <br />
 
 <h1>:copyright: Copyright <a href="#-restart-fexplorer" title="Go to Navigation">[↑]</a></h1>
-© Kristian Cenow &#128640; KC. All rights reserved. This application is not affiliated with Windows® or © Microsoft Corporation. File Explorer® and all related elements are trademarks of and © Microsoft Corporation.
+© Kristian Cenov &#128640; KC. All rights reserved. This application is not affiliated with Windows® or © Microsoft Corporation. File Explorer® and all related elements are trademarks of and © Microsoft Corporation.
