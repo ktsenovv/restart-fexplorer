@@ -26,7 +26,7 @@ It's a portable application and you can launch it from every directory!
 
 <h1>:scroll: Changelog <a href="#-restart-fexplorer" title="Go to Navigation">[↑]</a></h1>
 
-<b>[v1.0:](https://github.com/kcenow/restart-fexplorer/releases/tag/v2025.04.06 "Latest version")</b>	First Release.
+<b>[v2025.04.06:](https://github.com/kcenow/restart-fexplorer/releases/tag/v2025.04.06 "Latest version")</b>	First Release.
 
 <br />
 
