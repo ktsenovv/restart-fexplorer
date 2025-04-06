@@ -13,7 +13,7 @@
 
 <h1>:cd: Install <a href="#-restart-fexplorer" title="Go to Navigation">[↑]</a></h1>
 
-It's a portable application and you can launch it from every directory!
+It's a portable 1-click application that you can launch from every directory!
 
 <br />
 
