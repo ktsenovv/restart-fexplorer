@@ -5,7 +5,7 @@
 
 <h1>:page_facing_up: Description <a href="#-restart-fexplorer" title="Go to Navigation">[↑]</a></h1>
 
-* This is a simple application for windows, which allows you to restart File Explorer with 1 click.
+* This is a portable application for windows, which allows you to restart File Explorer with just one click.
 
 * After restart of the File Explorer, application returns you to the directory where it is located.
 
@@ -13,7 +13,7 @@
 
 <h1>:cd: Install <a href="#-restart-fexplorer" title="Go to Navigation">[↑]</a></h1>
 
-It's a portable 1-click application that you can launch from every directory!
+It's a portable one-click application that you can launch from every directory!
 
 <br />
 
