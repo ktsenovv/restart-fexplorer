@@ -1,9 +1,9 @@
 @echo off
 rem [ SETTINGS ]==========================================================
 set AppName=Restart FExplorer
-::set AppAuthor=Kristian Cenow
-::set AppVersion=v1.0
-::set AppWeb=https://kcenow.com
+::set AppAuthor=Kristian Cenov
+::set AppVersion=v2025.04.06
+::set AppWeb=kcenow.com
 set AppRestoreFExplorer=1
 rem ======================================================================
 
@@ -11,10 +11,16 @@ rem [ REGISTER ]==========================================================
 title %AppName%
 rem ======================================================================
 
-rem [ FUNCTION ]==========================================================
+rem [ MAIN ]==============================================================
+:: Force kill File Explorer
 taskkill /f /im explorer.exe
+
+:: Start File Explorer
 start explorer.exe
-IF "%AppRestoreFExplorer%" EQU "1" (
-	IF "%~dp0" NEQ "C:\Users\%USERNAME%\Desktop\" ( start . )
+if "%AppRestoreFExplorer%" EQU "1" (
+	if "%~dp0" NEQ "C:\Users\%USERNAME%\Desktop\" (start .)
 )
+
+:: Force exit
+exit
 rem ======================================================================
