@@ -13,7 +13,7 @@
 
 <h1>:cd: Install <a href="#-restart-fexplorer" title="Go to Navigation">[↑]</a></h1>
 
-Portable application!
+NOT REQUIRED!
 
 <br />
 
