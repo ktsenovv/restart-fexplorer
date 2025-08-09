@@ -1,9 +1,9 @@
 @echo off
 rem [ SETTINGS ]==========================================================
 set AppName=Restart FExplorer
-::set AppAuthor=Kristian Cenov
+::set AppAuthor=Kristian Tsenov
 ::set AppVersion=v2025.04.06
-::set AppWeb=kcenow.com
+::set AppWeb=ktsenov.com
 set AppRestoreFExplorer=1
 rem ======================================================================
 
